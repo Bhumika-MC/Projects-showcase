@@ -23,8 +23,8 @@ A clean and dynamic **Projects Showcase** application that displays a list of de
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://abiprojects.ccbp.tech)  
-🔗 URL: https://abiprojects.ccbp.tech
+👉 [Click here to view the live site](https://bhumiprojects.ccbp.tech)  
+🔗 URL: https://bhumiprojects.ccbp.tech
 
 ## ✨ Features
 
